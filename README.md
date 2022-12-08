@@ -1,1 +1,1 @@
-# Academic_website
+# Academic-blog

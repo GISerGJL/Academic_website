@@ -1,0 +1,44 @@
+---
+title: "Jiale Guo"
+image: "image/jialeguo.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/jialeguo6 target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/GISerGJL/ target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Email '
+    url: 'jiale.guo@foxmail.com target="_blank"'
+base_url: 
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## About Me
+
+- Hi! I am Jiale Guo, a Research Assistant(ra) at the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences (NIEER, CAS www.nieer.cas.cn). 
+- My research interests are very broad and include both Geospatial artificial intelligence (Geo-AI), X-AI, GIScience, Geospatial statistics and Geospatial-temporal analysis, as well as Hydrometeorology, Flash Drought, Snow Drought, hydrological model et.al.You might be wondering why I have such diverse research interests. It is well known that until the 1960s, much of the study done by geographers was qualitative in nature, necessitating a clear differentiation between one being a physical geographer and the other. However, the metrological geography revolution occurred, allowing geography to be studied scientifically and numerically despite its descriptive legacy. According to me, the age of the explosion of big data in geography has begun as a result of the ongoing development of earth observation technology. 
+- There is now both a wealth of quantitative analysis tools and a vast amount of geographical data available as input to geographic research. I do not confine myself to physical geography, human geography, or geoinformatics because of this; instead, I concentrate more on the methodological components of geography. Combining geographic approaches and data-driven solutions to contemporary geospatial difficulties is a particularly intriguing topic since spatial position variables are a crucial component of all sorts of geographic data. This is why I prefer the term "spatial data scientist" to be used.
+- So, you can call me a spatial data scientist.
+
+- <a href="https://r-girls.github.io/website/getting_started.html" target="_blank">Getting Started</a>
+- Ready made <a href="https://r-girls.github.io/website/math_lessons.html" target="_blank">Math</a>, <a href="https://r-girls.github.io/website/science_lessons.html" target="_blank">Science</a> and <a href="https://r-girls.github.io/website/geography_lessons.html" target="_blank">Geography</a> lessons.
+- Or,	join us for a friendly chat on <a href="https://r-girls.slack.com" target="_blank">Slack</a>
+## Education
+
+**Bachelor of Science, Geographical Science, | Chuzhou University, China 2017-2021**
+
+- Specialization: Land Management
+
+## Honors
+- Graduates with excellent academic performance in colleges and universities in Anhui Province, (1/57)  	    Jun 2021
+- National Encouragement scholarship, Education Department of Anhui Province, (1/57)Oct 2020
+- Academic Excellence Scholarship (First-class) of Chuzhou University, (1/57)Oct 2020
+- Academic Excellence Scholarship (Third-class)) of Chuzhou University, (8/57)Oct 2019
+- Academic Excellence Scholarship (Third-class) of Chuzhou University, (3/57)Oct 2018
+- Excellent Student Leader of Chuzhou University, three times in 2018&2019&2020     
+- Award ¥5000 grant of "Internet +" University Student Innovation and Entrepreneurship Competition Oct 2020
+
+## Experience
+
+
